@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<Name value="1CSMM_Patrons" />
-	<DisplayName value="CSMM Patrons" />
+	<Name value="PrismaCore" />
+	<DisplayName value="PrismaCore" />
 	<Description value="Additional management and player control functionality" />
 	<Author value="Prisma501" />
-	<Version value="26.0" />
+	<Version value="1.0" />
 	<Website value=""/>
 </xml>
